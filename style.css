@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+@font-face {
+    font-family: Cartoon Slam;
+    src: url(Cartoon\ Slam.ttf);
+}
+.Logo {
+    font-family: Cartoon Slam;
+    font-size: 55px;
+    color: white;
+    background-color: black;
+    width: 300px;
+    height: 58px;
+    margin-left: 5px;
+}
+.Logo2 {
+    font-family: Cartoon Slam;
+    font-size: 55px;
+    color: black;
+    background-color: white;
+    width: 300px;
+    height: 58px;
+    margin-left: 5px;
+}
+.TextLogo {
+    font-family: Cartoon Slam;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(31, 31, 31);
+    border: none;
+    width: 130px;
+    margin-left: 45px;
+}
+.WatchInfo p {
+    font-family: Cartoon Slam;
+    font-size: 25px;
+    color: white;
+    border: none;
+    margin-left: 30px;
+}
+.Watch {
+    background-color: white;
+    border: none;
+    border-radius: 12px;
+    width: 450px;
+    height: 300px;
+}
+.Info {
+    background-color: rgb(70, 70, 70);
+    border: none;
+    width: 175px;
+    height: 20px;
+}
+.Info a {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+    margin-left: 45px;
+    text-decoration: underline;
+    cursor: default;
+}
